@@ -3,10 +3,10 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>PIC18F57Q43_AutomatedProject</name>
-            <creation-uuid>ffa50718-55fb-4c45-9c03-df7997919692</creation-uuid>
+            <name>PIC18F47Q10_AutomatedTest</name>
+            <creation-uuid>af085971-7bca-4b00-9765-c5699bfd5490</creation-uuid>
             <make-project-type>0</make-project-type>
-            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <sourceEncoding>UTF-8</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>
             <confList>
