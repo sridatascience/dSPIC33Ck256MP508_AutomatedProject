@@ -9,7 +9,7 @@ void main() {
    POS1CNTH = a;
    volatile uint8_t c = 0x1F;
    POS1CNTL = c;
-   volatile uint8_t b =0x18;
+   volatile uint8_t b =0x08;
    PR1= b;
    volatile uint8_t t = add(a,b,c);
    TMR1 = t;
