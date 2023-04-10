@@ -7,6 +7,7 @@ uint8_t add(uint8_t n, uint8_t o, uint8_t p ){
 void main() {
    volatile uint8_t a = 0x05;
    POS1CNTH = a;
+   m = POS1CNTH;
    volatile uint8_t c = 0x1F;
    POS1CNTL = c;
    volatile uint8_t b =0x08;
